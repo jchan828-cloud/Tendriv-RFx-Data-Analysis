@@ -1,1 +1,7 @@
 Data/contractHistoryComplete-contratsOctroyesComplet.csv
+
+# Generated dashboard data files (large, regenerate with scripts/preprocess.py)
+dashboard/public/data/
+dashboard/.env.local
+dashboard/.next/
+dashboard/node_modules/
